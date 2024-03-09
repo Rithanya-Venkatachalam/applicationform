@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(rgb(21, 105, 174),transparent 70%),url(clk.png);
+    
+}
+
+.clock {
+    font-size: 48px;
+    background: linear-gradient(rgb(138, 192, 236),rgb(110, 143, 167));
+    color: white;
+    
+}
